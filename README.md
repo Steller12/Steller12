@@ -1,4 +1,4 @@
--  Hi, I’m @Steller12
+-  Hi, I’m Pushp Gupta
 -  I’m interested in data analytics
 -  I’m currently learning btech in computer science engineering
 -  I’m looking to collaborate on ...
