@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pushp Gupta</h1>
-<h3 align="center">A passionate Machine Learning Engineer from India</h3>
+<h3 align="center">A MERN Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=steller12&label=Profile%20views&color=0e75b6&style=flat" alt="steller12" /> </p>
 
