@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm a Final Year Undergraduate Computer Science Student from Lovely Professional University<br><br></p>
+<p align="left">I'm a Software Engineer @Amnet Digital <br><br></p>
 
 ###
 
