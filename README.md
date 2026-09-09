@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm a Final Year Undergraduate Computer Science Student from Lovely Professional University<br><br>- 🔭 I’m working on my skills to become a better software developer<br>- 📚 I'm currently learning how to work with scalability in web-development<br>- ⚡ In my free time I go run, or read some Murakami</p>
+<p align="left">I'm a Final Year Undergraduate Computer Science Student from Lovely Professional University<br><br></p>
 
 ###
 
